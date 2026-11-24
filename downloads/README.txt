@@ -1,0 +1,1 @@
+Place only film files that you own or are authorized to distribute in this folder. Then link them from your film records.
